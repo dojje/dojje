@@ -1,3 +1,6 @@
 ### hi there
 
-I hate programming, i do it just for the money. When i grow up i want to become a billiongazillionaire, [buy me a coffee](https://www.buymeacoffee.com/dojje) to help me on my quest.
+I am a 15 y/o from Sweden 🇸🇪. I do programming on my free time.
+
+[buy me a coffee](https://www.buymeacoffee.com/dojje) if you want to.
+_The money will not be spent on coffee._
