@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 💬 **Ask me about** the brilliance of using the default Github template
 - 📫 **How to reach me:**
     - Carrier Pidgeons: [1600 Pennsylvania Avenue NW, Washington, DC 20500, USA](https://www.google.se/maps/place/38%C2%B053'50.5%22N+77%C2%B002'09.1%22W/@38.8973561,-77.0384259,877m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d38.897352!4d-77.035851?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D) (Addressed to the cave inside the bushes)
-    - Email: dojje07@gmail.com
+    - Email: dojje07@gmail.com (preferred)
 - ⚡ **Fun fact:** Once wrote a script to automate a task that took 5 minutes and the script took 3 days. Productivity achieved!
+
+## Experience
+- Familiar with Linux
+    - Used Arch for a year (against better judgement)
+
 
